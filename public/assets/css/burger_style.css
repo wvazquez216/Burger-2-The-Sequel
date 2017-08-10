@@ -1,0 +1,23 @@
+
+body {
+
+  background-color: #00C7A9;
+}
+
+img {
+  width: 15%;
+}
+
+.red_font {
+  color: #bc001f;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #087c00;
+}
+
+.bugerEaterTextBox {
+  padding: 2px;
+  height: 100%;
+}
